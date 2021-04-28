@@ -13,5 +13,5 @@
 - [x] Add dev, start, build scripts
 - [x] Add sample react app
 - [x] Add todo list to readme 
-- [ ] Configure html-webpack-plugin
+- [x] Configure html-webpack-plugin
 - [ ] Configure typescript
