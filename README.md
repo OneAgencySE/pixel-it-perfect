@@ -6,12 +6,14 @@
 
 ## TODO:
 
+### Create React Project
+
 - [x] Add Webpack and Webpack dev server
 - [x] Add Babel
 - [x] Add React
 - [x] Configure webpack to use babel
 - [x] Add dev, start, build scripts
 - [x] Add sample react app
-- [x] Add todo list to readme 
+- [x] Add todo list to readme
 - [x] Configure html-webpack-plugin
-- [ ] Configure typescript
+- [x] Configure typescript
